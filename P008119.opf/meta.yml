@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG23569
   title: མྱོང་གྲུབ་མན་ངག་ཁ་འཐོར་ཕྱོགས་གཅིག་ཏུ་བཀོད་པ།
-  volume: ''
+  volume:
+    fcb09470a3a7494d951e7e4b3fb5822b:
+      image_group_id: I1KG23625
+      title: Volume 1 of myong grub man ngag kha 'thor phyogs gcig tu bkod pa/
+      volume_number: 1
+      total_pages: 490
   author: ''
+ebook_metadata:
+  title: མྱོང་གྲུབ་མན་ངག་ཁ་འཐོར་ཕྱོགས་གཅིག་ཏུ་བཀོད་པ།
+  author: ''
+  sku: P008119
+  cover: cover.jpg
+  layers:
+  - pagination
